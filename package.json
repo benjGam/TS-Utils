@@ -1,7 +1,7 @@
 {
-  "name": "npm-package-name",
+  "name": "ts-utils",
   "version": "1.0.0",
-  "description": "Package description goes here",
+  "description": "A package that provide some useful methods, class, types for TS development.",
   "main": "./lib/index.js",
   "scripts": {
     "build": "rm -r lib/ |& tsc --project tsconfig.json",
@@ -10,17 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+[repo-url-goes-here]"
+    "url": "git+https://github.com/benjGam/TS-Utils"
   },
   "keywords": [
-    "string"
+    "utils",
+    "helper"
   ],
-  "author": "[author-name]",
+  "author": "benjGam",
   "license": "ISC",
   "bugs": {
-    "url": "https://[repo-url-goes-here]/issues"
+    "url": "https://github.com/benjGam/TS-Utils/issues"
   },
-  "homepage": "[repo-url-goes-here]",
+  "homepage": "https://github.com/benjGam/TS-Utils",
   "devDependencies": {
     "@types/jest": "^29.5.13",
     "@types/node": "^20.9.0",

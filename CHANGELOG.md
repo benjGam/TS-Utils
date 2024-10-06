@@ -1,3 +1,6 @@
 # v1.0.0
 
-Changelog for v1.0.0 goes here
+**Added**:
+
+- **Types**:
+  - `MethodNames<T>` type has been added to package, this type map method names of a given class.
