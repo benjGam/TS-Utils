@@ -1,3 +1,3 @@
-# NPM Package
+# TS Utils
 
-Template to be ready to start NPM package dev.
+A package that provide some useful methods, class, types for TS development.
